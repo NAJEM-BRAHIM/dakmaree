@@ -7,3 +7,8 @@
 	path = saidhij/git
 	url = git@github.com:saidhij/git.git
 	branch = 11.0
+
+[submodule "OCA/commission"]
+	path = OCA/commission
+	url = git@github.com:OCA/commission.git
+	branch = 11.0
