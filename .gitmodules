@@ -17,3 +17,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 11.0
+
+[submodule "saidhij/rhfree"]
+	path = saidhij/rhfree
+	url = git@github.com:saidhij/rhfree.git
+	branch = 11.0
