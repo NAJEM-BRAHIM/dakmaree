@@ -2,3 +2,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 11.0
+
+[submodule "saidhij/git"]
+	path = saidhij/git
+	url = git@github.com:saidhij/git.git
+	branch = 11.0
