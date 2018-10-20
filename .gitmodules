@@ -1,0 +1,24 @@
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 11.0
+
+[submodule "saidhij/git"]
+	path = saidhij/git
+	url = git@github.com:saidhij/git.git
+	branch = 11.0
+
+[submodule "OCA/commission"]
+	path = OCA/commission
+	url = git@github.com:OCA/commission.git
+	branch = 11.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 11.0
+
+[submodule "saidhij/rhfree"]
+	path = saidhij/rhfree
+	url = git@github.com:saidhij/rhfree.git
+	branch = 11.0
