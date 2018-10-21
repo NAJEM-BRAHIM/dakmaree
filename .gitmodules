@@ -22,3 +22,23 @@
 	path = saidhij/rhfree
 	url = git@github.com:saidhij/rhfree.git
 	branch = 11.0
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 11.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 11.0
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 11.0
+
+[submodule "JayVora-SerpentCS/SerpentCS_Contributions"]
+	path = JayVora-SerpentCS/SerpentCS_Contributions
+	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
+	branch = 11.0
